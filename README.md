@@ -7,11 +7,11 @@ Table of Contents
 
 Features
 
-    Real-time Timer Display: The timer shows the current elapsed time in years, days, hours, minutes, and seconds.
+Real-time Timer Display: The timer shows the current elapsed time in years, days, hours, minutes, and seconds.
 
-    Persistence Across Refresh: Even if you user refreshes the page, the timer continues running from where it left off, thanks to the Web Storage API.
+Persistence Across Refresh: Even if you user refreshes the page, the timer continues running from where it left off, thanks to the Web Storage API.
 
-    Responsive Design: The timer is designed to work well on various screen sizes, ensuring a consistent user experience.
+Responsive Design: The timer is designed to work well on various screen sizes, ensuring a consistent user experience.
 
 Getting Started
 
