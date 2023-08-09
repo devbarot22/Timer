@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css2?family=Caprasimo&family=Major+Mono+Display&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Caprasimo", cursive;
+}
+
+/*Main content block*/
+
+#Container {
+  display: grid;
+  width: 100%;
+  height: 100%;
+  place-items: center; 
+  margin: 20vh 0px;
+}
+
+/*timer whole body*/
+
+#tim-main {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin: 10px 0px;
+}
+ 
+/*timer content*/
+
+.timer{
+  display: grid;
+  place-content: center;
+  place-items: center;
+}
+
+/*top and bottom text*/
+
+.tex {
+  font-size: 4rem;
+}
+
+/*timer text*/
+
+.tex1 {
+  font-size: 1.2rem;
+}
+
+/*input*/
+
+.time{
+  width: 90%;
+  height: 40px;
+  text-align: center;
+  font-size: 2rem;
+}
+
+.bottom{
+  margin: 10px;
+  text-align: center;
+}
