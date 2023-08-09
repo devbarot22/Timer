@@ -20,7 +20,7 @@
 /*timer whole body*/
 
 #tim-main {
-  width: 100%;
+  width: 60%;
   display: flex;
   justify-content: center;
   margin: 10px 0px;
@@ -50,10 +50,14 @@
 
 .time{
   width: 90%;
+  margin: 0px;
   height: 40px;
   text-align: center;
-  font-size: 2rem;
+  font-size: 1.8rem;
+
 }
+
+/*bottom text*/
 
 .bottom{
   margin: 10px;
